@@ -2,3 +2,4 @@ nltk
 ipykernel
 pandas
 numpy
+textblob
